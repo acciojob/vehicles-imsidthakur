@@ -8,6 +8,7 @@ public class Boat implements WaterVehicle{
     this.name = name;
     this.capacity = capacity;
   }
+ 
 
   public String getVehicleName(){
     return this.name;
