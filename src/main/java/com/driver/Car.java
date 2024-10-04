@@ -23,14 +23,9 @@ public class Car extends Vehicle {
     {
         return currentGear;
     }
-    public boolean getSeats()
+    public int getSeats()
     {
         return seats;
-    }
-
-    public boolean isManual()
-    {
-        return isManual;
     }
     
     public boolean isManual()
