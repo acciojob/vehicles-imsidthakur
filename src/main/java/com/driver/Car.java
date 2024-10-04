@@ -19,6 +19,10 @@ public class Car extends Vehicle {
         this.seats = seats;
     }
 
+    public int getCurrentGear()
+    {
+        return currentGear;
+    }
     public boolean getSeats()
     {
         return seats;
