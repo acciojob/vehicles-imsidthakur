@@ -35,7 +35,7 @@ public class Vehicle {
     }
 
    public int getCurrentSpeed(){
-        return currentDirection;
+        return currentSpeed;
     }
 
     public String getName(){
